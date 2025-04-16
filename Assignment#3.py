@@ -70,5 +70,5 @@ for i in range(n):
     plt.title("Reconstructed")
     plt.axis("off")
 
-# show the figures
+# Show the figures
 plt.show()
